@@ -15,6 +15,6 @@ This will compile everything, run the unit test (that runs the command line appl
 
 Please feel free to fork this repository and create your own application, or use this as a guide for building your own ModeShape application. 
 
-## Problems or questions?
+# Problems or questions?
 
 If you have any questions or problems, post a question in our [user forum](http://community.jboss.org/en/modeshape) or hop into our [IRC chat room](http://www.jboss.org/modeshape/chat) and talk our community of contributors and users.
