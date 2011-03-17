@@ -64,7 +64,7 @@ public class ModeShapeExample {
         Session session = null;
         try {
 	        // Get the repository
-            repository = engine.getRepository("My repository");
+            repository = engine.getRepository("Brix repository");
 
 		    // Create a session ...
             session = repository.login("default");
